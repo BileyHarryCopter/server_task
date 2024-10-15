@@ -1,2 +1,2 @@
 # server_task
-Test task C++ programmer
+Test task for C++ developer
